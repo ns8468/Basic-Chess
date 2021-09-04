@@ -1,3 +1,2 @@
 # Basic-Chess
-
-basic-chess.netlify.app
+https://basic-chess.netlify.app
