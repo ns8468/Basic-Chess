@@ -1,10 +1,10 @@
-# Basic-Chess
-
+# Basic-Chess 
+♙  ♔  ♕  ♗  ♘  ♖   ♟  ♚  ♛  ♝  ♞  ♜
 
 Basic Chess website using 
-- html
-- css
-- js
+- HTML
+- CSS
+- JS
 
 
 https://basic-chess.netlify.app
